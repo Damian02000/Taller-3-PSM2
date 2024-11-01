@@ -1,0 +1,14 @@
+../Core/Src/main.c:63:12:condicion_verde_a_verde_parpadeo	24	static
+../Core/Src/main.c:72:12:condicion_verde_parpadeo_a_rojo	24	static
+../Core/Src/main.c:80:12:condicion_rojo_a_rojo_parpadeo	24	static
+../Core/Src/main.c:88:12:condicion_rojo_parpadeo_a_verde	24	static
+../Core/Src/main.c:100:6:on_state_verde	24	static
+../Core/Src/main.c:109:6:on_state_verde_parpadeo	24	static
+../Core/Src/main.c:117:6:on_state_rojo	24	static
+../Core/Src/main.c:127:6:on_state_rojo_parpadeo	24	static
+../Core/Src/main.c:170:6:semaforo_init	24	static
+../Core/Src/main.c:190:6:semaforo_update	16	static
+../Core/Src/main.c:200:5:main	24	static
+../Core/Src/main.c:229:6:SystemClock_Config	72	static
+../Core/Src/main.c:261:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:294:6:Error_Handler	4	static,ignoring_inline_asm
